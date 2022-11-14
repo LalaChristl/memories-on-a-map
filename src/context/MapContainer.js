@@ -88,8 +88,11 @@ export default function MapContainer() {
     // return <img className="img" src={response} alt="location" />;
   };
 
+  
+  console.log(process.env.REACT_APP_API_KEY)
+
   return (
-    <LoadScript googleMapsApiKey="AIzaSyBs2dxYcq7GG0cp3HaB - SJAEOZMrSxI0jc">
+    <LoadScript googleMapsApiKey={process.env.REACT_APP_API_KEY}>
       <GoogleMap
         onLoad={handleMapProps}
         {...mapProps}
