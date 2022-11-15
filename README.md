@@ -5,7 +5,7 @@ Team: Kirk McDowell, Rafael Oliveira & Lesley-Ann Christl
 
 ## Description
 
-Memories On A Map is an application that lets users relive the memories of all the places they have seen in the world. With this app, users can drop a pin anywhere on the world map and upload photos of their trip. Once uploaded, you can sit back and reminisce by watching the photos scroll by on the in-screen photo carousel. 
+Memories On A Map is an application that allows users relive the memories of all the places they have seen in the world. With this app, users can drop a pin anywhere on the world map and upload photos of their trip. Once uploaded, you can sit back and reminisce by watching the photos scroll by on the in-screen photo carousel. 
 
 Live version: https://memories-on-a-e31pko1r4-lalachristl.vercel.app/
 
@@ -18,6 +18,7 @@ Live version: https://memories-on-a-e31pko1r4-lalachristl.vercel.app/
 ## Technologies Used
 - React
 - Google Maps API
+- JavaScript
 
 ---
 
