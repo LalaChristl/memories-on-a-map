@@ -29,7 +29,8 @@ Live version: https://memories-on-a-e31pko1r4-lalachristl.vercel.app/
 
 ## Initial Sketch
 
-![memories-app-plan](https://user-images.githubusercontent.com/73485164/201766019-00980afb-85b5-426c-84e6-27171ace5b42.svg)
+![memories-app-plan](https://user-images.githubusercontent.com/73485164/201916207-a1bab250-6a88-41c7-9d1c-ca636dccfb3d.svg)
+
 
 ---
 
