@@ -11,7 +11,12 @@ Live version: https://memories-on-a-e31pko1r4-lalachristl.vercel.app/
 
 ![live-map](https://user-images.githubusercontent.com/73485164/201769525-7d52ccbc-ac59-4a65-8f64-9f619df7a4c6.png)
 
+---
 
+## Installation Instructions
+- clone repository 
+- npm i 
+- npm start
 
 ---
 
@@ -28,11 +33,6 @@ Live version: https://memories-on-a-e31pko1r4-lalachristl.vercel.app/
 
 ---
 
-## Installation Instructions
-- clone repository 
-- npm i 
-- npm start
----
 ### Contributors
 - [@OliveiraDCI
 ](https://github.com/OliveiraDCI)
@@ -40,11 +40,13 @@ Live version: https://memories-on-a-e31pko1r4-lalachristl.vercel.app/
 Ajanitone
 ](https://github.com/Ajanitone)
 
+- [@
+LalaChristl
+](https://github.com/LalaChristl)
 ---
 
 ## More about us
 We are a group of students persuing our certificate for Full-Stack Web Development. This is our first React group project. The idea was hatched by Kirk, a life-long musician, who wanted to make a map of all the venues he has played. We loved it! Rafael and I thought it would be something the world would enjoy. It's a work in progress! We have many more ideas and will be implementing some really great additions in the future. We hope you enjoy using our app!
-
 
 ---
 
